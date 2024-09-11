@@ -1,9 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+const currentUrl = window.location.href;
 const Course = ({ data, last }) => (
   <li className="course-container">
-    <a href={data.link}>
+    <a href={data.link ? data.link : currentUrl}>
       <h4 className="course-number">{data.number}:</h4>
       <p className="course-name">{data.title}</p>
     </a>

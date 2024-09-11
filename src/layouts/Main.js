@@ -12,8 +12,8 @@ const Main = (props) => (
     <Analytics />
     <ScrollToTop />
     <Helmet
-      titleTemplate="%s | Michael D'Angelo"
-      defaultTitle="Michael D'Angelo"
+      titleTemplate="%s | Bruce Wang"
+      defaultTitle="Bruce Wang"
       defer={false}
     >
       {props.title && <title>{props.title}</title>}
