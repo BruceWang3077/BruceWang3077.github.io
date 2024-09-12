@@ -12,12 +12,14 @@ import Courses from '../components/Resume/Courses';
 import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
 import work from '../data/resume/work';
+import project from '../data/resume/project';
 import { skills, categories } from '../data/resume/skills';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
   Education: () => <Education data={degrees} />,
-  Experience: () => <Experience data={work} />,
+  Experience: () => <Experience data={work} name="Experience" />,
+  Project: () => <Experience data={project} name="Project" />,
   Skills: () => <Skills skills={skills} categories={categories} />,
   Courses: () => <Courses data={courses} />,
   // References: () => <References />,
@@ -26,7 +28,7 @@ const sections = {
 const Resume = () => (
   <Main
     title="Resume"
-    description="Michael D'Angelo's Resume. Smile Identity, Arthena, Matroid, YC, Skeptical Investments, Stanford ICME, Planet, and Facebook."
+    description="Bruce Wang's Resume. Smile Identity, Arthena, Matroid, YC, Skeptical Investments, Stanford ICME, Planet, and Facebook."
   >
     <article className="post" id="resume">
       <header>
