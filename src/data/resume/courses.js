@@ -37,14 +37,8 @@ const courses = [
   },
   {
     title: 'Operating Systems',
-    number: 'CSE508',
-    link: 'http://mpaxos.com/teaching/ds/23fa/',
-    university: 'SBU',
-  },
-  {
-    title: 'Natural Language Processing',
-    number: 'CSE538',
-    link: '',
+    number: 'CSE506',
+    link: 'https://www3.cs.stonybrook.edu/~dongyoon/cse506-s24/',
     university: 'SBU',
   },
   {

@@ -9,17 +9,17 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">About this site</Link>
+            <Link to="/">Welcome!</Link>
           </h2>
-          <p>A beautiful react application written with modern Javascript.</p>
+          {/* <p>A beautiful react application written with modern Javascript.</p> */}
         </div>
       </header>
       <p>
         {' '}
         Welcome to my website. Please feel free to read more{' '}
-        <Link to="/about">about me</Link>, or you can check out my{' '}
-        <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,
-        or <Link to="/contact">contact</Link> me.
+        <Link to="/about" style={{ fontWeight: 'bold' }}>about me</Link>, or you can check out my{' '}
+        <Link to="/resume" style={{ fontWeight: 'bold' }}>resume</Link>, <Link to="/projects" style={{ fontWeight: 'bold' }}>projects</Link>,
+        or <Link to="/contact" style={{ fontWeight: 'bold' }}>contact</Link> me.
       </p>
       {/* <p>
         {' '}

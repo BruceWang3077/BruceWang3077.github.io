@@ -24,15 +24,16 @@ const SideBar = () => (
       <p>
         Hi, I&apos;m Bruce. I am currently pursuing a Master&apos;s degree in
         Computer Science at{' '}
-        <a href="https://www.stonybrook.edu/">Stony Brook University</a>. I
-        graduated from{' '}
+        <a href="https://www.stonybrook.edu/">Stony Brook University</a>.
+        {/* I graduated from{' '}
         <a href="https://www.sustech.edu.cn/en/">
           Southern University of Science and Technology
         </a>{' '}
         with a Bachelor of Engineering in{' '}
         <a href="https://cse.sustech.edu.cn/en/">
           Compute Science and Engineering
-        </a> in 2023. <br /> I&apos;m passionate about building reliable and scalable
+        </a> in 2023.  */}
+        <br /> <br /> I&apos;m passionate about building reliable and scalable
         softwares, and buildings applications that bring inspiration to people.
       </p>
       <ul className="actions">
