@@ -20,7 +20,7 @@ const Index = () => (
         <Link to="/resume" style={{ fontWeight: 'bold' }}>resume</Link>, <Link to="/projects" style={{ fontWeight: 'bold' }}>projects</Link>,
         or <Link to="/contact" style={{ fontWeight: 'bold' }}>contact</Link> me.
       </p>
-      <div><div><script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=fBciA_Wev5IylN3Mp-0QwCdXFDDKxrlullfPDTYVCDg&cl=ffffff&w=a">.</script></div></div>
+      <div><script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=fBciA_Wev5IylN3Mp-0QwCdXFDDKxrlullfPDTYVCDg&cl=ffffff&w=a">.</script></div>
       {/* <p>
         {' '}
         Source available{' '}
