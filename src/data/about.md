@@ -20,7 +20,7 @@ In my spare time, I enjoy investing in people and ideas through a [small venture
 - I pivoted from musical art to regular school education due to an arm injury(Don't worry, I'm okay now).
 - I fell in love with physics because of the great movie **Interstellar**. After watching the movie I read *A Brief History of Time*, and many other books about physics. Because of which I also developed an affection with sci-fi novels. My favorite is *The Three Body Problem*. At that time, I made up my mind to get a degree in physics after going to college.
 - With near-zero prior knowledge about computers, I took a course about Java programming in my freshman year. Surpirsingly, I became obssesed with it immediately.<div style="text-align: center;">
-    <img src="/images/Bruce.jpg" alt="Alt text" width="300">
+    <img src="/images/prettyDamnGood.jpg" alt="Alt text" width="300">
 </div>Solving algorithmic challenges and the elegance of coding solutions felt like playing video games to me. I declared my major as Computer Science right after that semester. 
 - And the rest is history.
 
@@ -49,10 +49,12 @@ Ask me in person for other stories that I'm afraid to share with the internet. -
 - Basketball. I'm a SG/SF, and a natural shooter XD
 - Bodybuilding
 - Cars. I LOVE MY MIATA
+![image](/images/miata.jpg)
 - NBA. Go [Dub Nation](https://www.nba.com/warriors?tmd=1)!
 - Reading
 - Podcasts. Two of my favorite: [Huberman Lab](https://www.hubermanlab.com/) and [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 - Movies and shows. Expecially Quentin Tarantino and Christopher Nolan. 
+![image](/images/pulp_fiction.gif)
 
 
 
