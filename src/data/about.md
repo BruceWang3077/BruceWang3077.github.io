@@ -19,9 +19,11 @@ In my spare time, I enjoy investing in people and ideas through a [small venture
 - I had the honor to get instructions from [Dr.Hong Xu](https://music.cuhk.edu.cn/en/faculty/hong-xu). He's a world-class pianist, who earned his Doctor of Musical Arts from the Juilliard School in Manhattan. His success in the U.S. was a significant influence, sparking my own dream of pursuing education in the United States for the first time
 - I pivoted from musical art to regular school education due to an arm injury(Don't worry, I'm okay now).
 - I fell in love with physics because of the great movie **Interstellar**(I've watched it 8 times). After watching the movie I read *A Brief History of Time*, and many other books about physics. Because of which I also developed an affection with sci-fi novels. My favorite is *The Three Body Problem*. At that time, I made up my mind to get a degree in physics after going to college.
-- With near-zero prior knowledge about computers, I took a course about Java programming in my freshman year. Surpirsingly, I became obssesed with it immediately.<div style="text-align: center;">
+- With near-zero prior knowledge about computers, I took a course about Java programming in my freshman year. Surpirsingly, I became obssesed with it immediately.
+<!-- <div style="text-align: center;">
     <img src="/images/prettyDamnGood.gif" alt="Alt text" width="140">
-</div>Solving algorithmic challenges and the elegance of coding solutions felt like playing video games to me. I declared my major as Computer Science right after that semester. 
+</div> -->
+Solving algorithmic challenges and the elegance of coding solutions felt like playing video games to me. I declared my major as Computer Science right after that semester. 
 - And the rest is history.
 
 
