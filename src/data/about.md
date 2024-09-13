@@ -18,9 +18,9 @@ In my spare time, I enjoy investing in people and ideas through a [small venture
 - At the age of 12, I held my **solo piano concert**, a milestone that shaped my early years.
 - I had the honor to get instructions from [Dr.Hong Xu](https://music.cuhk.edu.cn/en/faculty/hong-xu). He's a world-class pianist, who earned his Doctor of Musical Arts from the Juilliard School in Manhattan. His success in the U.S. was a significant influence, sparking my own dream of pursuing education in the United States for the first time
 - I pivoted from musical art to regular school education due to an arm injury(Don't worry, I'm okay now).
-- I fell in love with physics because of the great movie **Interstellar**. After watching the movie I read *A Brief History of Time*, and many other books about physics. Because of which I also developed an affection with sci-fi novels. My favorite is *The Three Body Problem*. At that time, I made up my mind to get a degree in physics after going to college.
+- I fell in love with physics because of the great movie **Interstellar**(I've watched it 8 times). After watching the movie I read *A Brief History of Time*, and many other books about physics. Because of which I also developed an affection with sci-fi novels. My favorite is *The Three Body Problem*. At that time, I made up my mind to get a degree in physics after going to college.
 - With near-zero prior knowledge about computers, I took a course about Java programming in my freshman year. Surpirsingly, I became obssesed with it immediately.<div style="text-align: center;">
-    <img src="/images/prettyDamnGood.jpg" alt="Alt text" width="300">
+    <img src="/images/prettyDamnGood.gif" alt="Alt text" width="140">
 </div>Solving algorithmic challenges and the elegance of coding solutions felt like playing video games to me. I declared my major as Computer Science right after that semester. 
 - And the rest is history.
 
@@ -49,12 +49,16 @@ Ask me in person for other stories that I'm afraid to share with the internet. -
 - Basketball. I'm a SG/SF, and a natural shooter XD
 - Bodybuilding
 - Cars. I LOVE MY MIATA
-![image](/images/miata.jpg)
+<div>
+    <img src="/images/miata.jpg" alt="Alt text" width="300">
+</div>
 - NBA. Go [Dub Nation](https://www.nba.com/warriors?tmd=1)!
 - Reading
 - Podcasts. Two of my favorite: [Huberman Lab](https://www.hubermanlab.com/) and [Lex Fridman Podcast](https://lexfridman.com/podcast/)
-- Movies and shows. Expecially Quentin Tarantino and Christopher Nolan. 
-![image](/images/pulp_fiction.gif)
+- Movies and shows. Expecially Quentin Tarantino and Christopher Nolan.<br/>
+<div>
+    <img src="/images/pulp_fiction.gif" alt="Alt text" width="300">
+</div>
 
 
 
