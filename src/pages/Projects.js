@@ -14,7 +14,7 @@ const Projects = () => (
           <h2>
             <Link to="/projects">Projects</Link>
           </h2>
-          <p>The demos will be out soon!</p>
+          {/* <p>The demos will be out soon!</p> */}
         </div>
       </header>
       <div><h3>OnlineOrder</h3>
