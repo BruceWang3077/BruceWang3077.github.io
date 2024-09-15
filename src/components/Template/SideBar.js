@@ -54,7 +54,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Bruce Wang <Link to="/">todo: add url</Link>.
+        &copy; Bruce Wang <Link to="/">Brucewang3077.github.io</Link>.
       </p>
     </section>
   </section>
