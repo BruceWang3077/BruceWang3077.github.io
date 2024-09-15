@@ -13,9 +13,9 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Bruce(Chenyu) Wang</h2>
-        <p>
+        {/* <p>
           <a href="mailto:brucew3077@gmail.com">brucew3077@gmail.com</a>
-        </p>
+        </p> */}
       </header>
     </section>
 
