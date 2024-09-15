@@ -25,6 +25,15 @@ const Projects = () => (
           <iframe width="560" height="315" src="https://www.youtube.com/embed/kUU5FZj4mWQ?si=n2sj_HNFehKOgEEJ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowfullscreen>.</iframe>
         </div>
       </Container>
+      <br />
+      <div><h3>AI PDF Reader</h3>
+        <p>Full-stack web-based Q&A AI agent for PDF document querie</p>
+      </div>
+      <Container>
+        <div>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/ADVAjiw_7YM?si=l6UxFIXTYAzr7rwm" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowfullscreen>.</iframe>
+        </div>
+      </Container>
       {data.map((project) => (
         <Cell data={project} key={project.title} />
       ))}
