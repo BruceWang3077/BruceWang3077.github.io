@@ -2,7 +2,7 @@
 
 I'm a Master student of Computer Science at [Stony Brook University](https://www.stonybrook.edu/) in Stony Brook, NY. Before SBU, I graduated from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in Shenzhen, Guangdong, China in 2023, where I got my BE degree in Computer Science and Technology. <br/><br/>
 
-I'm passionate about **full-stack development**, **distributed systems**, and **machine learning**. Over the years, I've completed several full-stack projects alongside my academic journey. During my Master's study, I have the honor to work as a research assistant under Professor Shuai Mu, where I get a deeper look into the exciting world of distributed systems.<br/><br/>
+I'm passionate about **full-stack development**, **distributed systems**, and **machine learning**. Over the years, I've completed several full-stack projects alongside my academic journey. During my Master's study, I have the honor to work as a research assistant under Professor [Shuai Mu](http://mpaxos.com/), where I get a deeper look into the exciting world of distributed systems.<br/><br/>
 
 During My undergrad years, I had the privilege to try different study abroad programs, including VISP program of [University of Wisconsin, Madison](https://www.wisc.edu/), and School of Engineering 3+2 program of [University of California, Irvine](https://uci.edu/). I appreciate the insights and cultural exchange these great programs brought me. From a proud **<span style="color:#C5050C">Badger</span>**, an **<span style="color:#255799">Anteater</span>**, to now a **<span style="color:#990000">Seawolf</span>**, I love them all!<br/><br/>
 
