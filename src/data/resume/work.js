@@ -13,11 +13,11 @@
  */
 const work = [
   {
-    name: 'JetPack',
-    position: 'Graduate Research Assistant under Prof.Shuai Mu',
+    name: 'Graduate Research Assistant',
+    position: 'under Prof.Shuai Mu',
     url: '',
     startDate: '2024-01-28',
-    summary: 'Generalized Enhancement of Consensus Protocols with Fast Path Optimization',
+    summary: 'Working on JetPack, a Generalized Enhancement of Consensus Protocols with Fast Path Optimization',
     highlights: [
       'Innovative Latency Measurement Integrated TDigest into the testing framework in C++, enabling real-time latency visualization with minimal overhead and maintaining precision with an error rate of less than 0.001%.',
       'Testing Framework Deployment Deployed a sophisticated testing framework on AWS ECR instances, enabling extensive intercontinental performance analysis of various consensus protocols, including Copilot and Raft.',
