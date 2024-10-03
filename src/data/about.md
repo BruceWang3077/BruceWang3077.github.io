@@ -14,7 +14,7 @@ In my spare time, I am committed to personal growth. I enjoy learning about huma
 In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch. -->
 
 # My Journey
-- During the first 13 years of my life, I was a "part-time" student and a "full-time" piano artist specialized in classical music. Classical music was my entire world, filling my days outside the classroom.
+- During the first 13 years of my life, I was a "part-time" student and a "full-time" piano artist specialized in classical music. Classical music was my entire world, filling my days outside the classroom. I made [these videos](https://space.bilibili.com/501805256/channel/series) in college for fun. I was probably far less good than myself at 12 but these are fun to make.
 - At the age of 12, I held my **solo piano concert**, a milestone that shaped my early years.
 - I had the honor to get instructions from [Dr.Hong Xu](https://music.cuhk.edu.cn/en/faculty/hong-xu). He's a world-class pianist, who earned his Doctor of Musical Arts from the Juilliard School in Manhattan. His success in the U.S. was a significant influence, sparking my own dream of pursuing education in the United States for the first time
 - I pivoted from musical art to regular school education due to an arm injury(Don't worry, I'm okay now).

@@ -16,8 +16,8 @@ const project = [
     name: 'OnlineOrder',
     position: 'Lead Designer & Developer',
     url: '',
-    startDate: '2023-08-20',
-    endDate: '2023-10-23',
+    startDate: '2023-1-1',
+    endDate: '2023-4-21',
     summary: 'A SpringBoot based online food ordering web application',
     highlights: [
       'Developed CRUD REST APIs using Spring Controllers, including registration, menu searching, ordering, and checkout.',
@@ -61,8 +61,8 @@ const project = [
     name: 'Around',
     position: 'Lead Designer & Developer',
     url: '',
-    startDate: '2023-11-15',
-    endDate: '2024-01-30',
+    startDate: '2024-1-15',
+    endDate: '2024-03-30',
     summary: 'A Cloud and React based social network',
     highlights: [
       'Designed and developed a dynamic social networking web application using ReactJS, allowing users to create, browse, and search for nearby posts.',
@@ -75,7 +75,7 @@ const project = [
     name: 'AI PDF Reader',
     position: 'Lead Designer & Developer',
     url: '',
-    startDate: '2024-05-25',
+    startDate: '2024-04-25',
     endDate: '2024-06-30',
     summary: 'Full-stack web-based Q&A AI agent for PDF document queries',
     highlights: [

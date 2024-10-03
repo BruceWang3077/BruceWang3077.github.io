@@ -19,7 +19,7 @@ const work = [
     startDate: '2024-01-28',
     summary: 'Working on JetPack, a Generalized Enhancement of Consensus Protocols with Fast Path Optimization',
     highlights: [
-      'Innovative Latency Measurement Integrated TDigest into the testing framework in C++, enabling real-time latency visualization with minimal overhead and maintaining precision with an error rate of less than 0.001%.',
+      'Pioneered the integration of TDigest with Boost Serialization Support implemented into the testing framework in C++, achieving real-time latency visualization with near-zero overhead, maintaining accuracy within an error margin of less than 0.001%, and reducing latency storage by 99% compared to the original measurement tool.',
       'Testing Framework Deployment Deployed a sophisticated testing framework on AWS ECR instances, enabling extensive intercontinental performance analysis of various consensus protocols, including Copilot and Raft.',
       'Data Visualization Tools Developed advanced Python plotting scripts to effectively visualize test data, providing clear insights into the performance improvements from fast path optimization.',
     ],
